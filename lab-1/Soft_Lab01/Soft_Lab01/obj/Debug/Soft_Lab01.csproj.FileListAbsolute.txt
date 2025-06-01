@@ -1,0 +1,7 @@
+C:\лабораторна\конструювання\-Software-design\lab-1\Soft_Lab01\Soft_Lab01\bin\Debug\Soft_Lab01.exe.config
+C:\лабораторна\конструювання\-Software-design\lab-1\Soft_Lab01\Soft_Lab01\bin\Debug\Soft_Lab01.exe
+C:\лабораторна\конструювання\-Software-design\lab-1\Soft_Lab01\Soft_Lab01\bin\Debug\Soft_Lab01.pdb
+C:\лабораторна\конструювання\-Software-design\lab-1\Soft_Lab01\Soft_Lab01\obj\Debug\Soft_Lab01.csproj.AssemblyReference.cache
+C:\лабораторна\конструювання\-Software-design\lab-1\Soft_Lab01\Soft_Lab01\obj\Debug\Soft_Lab01.csproj.CoreCompileInputs.cache
+C:\лабораторна\конструювання\-Software-design\lab-1\Soft_Lab01\Soft_Lab01\obj\Debug\Soft_Lab01.exe
+C:\лабораторна\конструювання\-Software-design\lab-1\Soft_Lab01\Soft_Lab01\obj\Debug\Soft_Lab01.pdb
